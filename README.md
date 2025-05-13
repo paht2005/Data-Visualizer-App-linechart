@@ -80,5 +80,5 @@ Contact for work: **Nguyễn Công Phát** – congphatnguyen.work@gmail.com
 
 ---
 ## 🧠 Acknowledgements
-**Streamlit** - For creating an amazing platform to build data apps.
-**Matplotlib** - For powerful and customizable visualizations.
+- **Streamlit** - For creating an amazing platform to build data apps.
+- **Matplotlib** - For powerful and customizable visualizations.
