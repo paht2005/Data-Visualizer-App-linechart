@@ -1,6 +1,6 @@
 # Data Visualizer App 
 
-[![GitHub License](https://img.shields.io/github/license/paht2005/Data-Visualizer-App-linechart)](https://github.com/paht2005/Data-Visualizer-App-linechart)
+![screen](/imgs/screen.png)
 
 This repository contains the implementation of a **Data Visualizer App** built using **Streamlit** and **Matplotlib** for visualizing data from `.csv` or `.xlsx` files. The app allows users to upload data, visualize it in line chart format, filter data based on conditions, and customize the visualization process.
 
@@ -65,11 +65,13 @@ This repository contains the implementation of a **Data Visualizer App** built u
 - You can upload .csv or .xlsx files by clicking the upload button.
 - Choose the columns for the X and Y axes to generate the desired chart.
 - Apply filters to the data for more specific visualizations.
-- Switch between dark mode and light mode via the app's interface for a better viewing experience.
+- **Demo:**
+  ![deploy1](/imgs/deploy1)
+  ![deploy2](/imgs/deploy2)
 
 ---
 ## 📄 License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 ## 🤝 Contributing
