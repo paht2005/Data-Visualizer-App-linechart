@@ -66,8 +66,8 @@ This repository contains the implementation of a **Data Visualizer App** built u
 - Choose the columns for the X and Y axes to generate the desired chart.
 - Apply filters to the data for more specific visualizations.
 - **Demo:**
-  ![deploy1](/imgs/deploy1)
-  ![deploy2](/imgs/deploy2)
+  ![deploy1](/imgs/deploy1.png)
+  ![deploy2](/imgs/deploy2.png)
 
 ---
 ## 📄 License
