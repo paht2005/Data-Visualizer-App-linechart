@@ -1,3 +1,5 @@
+# copyright [2025] [Phat Nguyen Cong] (Github: https://github.com/paht2005)
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
@@ -85,3 +87,6 @@ if uploaded_file is not None:
 
     except Exception as e:
         st.error(f"❌ Error: {e}")
+
+st.markdown("---")
+st.caption("🚀 Phát triển bởi Nguyễn Công Phát - Contact for work: congphatnguyen.work@gmail.com")
